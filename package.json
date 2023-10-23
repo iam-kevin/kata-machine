@@ -17,8 +17,7 @@
         "test": "jest PrimsList",
         "clear": "node ./scripts/clear.js",
         "prettier": "prettier --write ./src",
-        "generate": "node ./scripts/generate.js",
-        "day": "echo src/day4"
+        "generate": "node ./scripts/generate.js"
     },
     "devDependencies": {
         "@swc-node/register": "^1.6.7"
